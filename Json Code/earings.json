@@ -1,0 +1,57 @@
+{"products": [
+    {
+      "id": 1,
+      "name": "Silver Crystaline Earing",
+      "category": "Earing",
+      "material": "Silver Crystaline",
+      "price": 200,
+      "description": "Embrace the subtle beauty of our silver earrings, perfect for adding a gentle touch of grace to any outfit.",
+      "image": "https://cdn.pixabay.com/photo/2016/12/01/14/39/rose-gold-1875469_1280.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dior Earings",
+      "category": "Earing",
+      "material": "Silver",
+      "price": 430,
+      "description": "Radiate timeless elegance with our stunning collection of Dior earrings, crafted to capture the essence of luxury and sophistication.",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/05/638ec998ffb5d0827d756871/m_640a98ed1645f728d04e7dec.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Diamond Silver Earings",
+      "category": "Earings",
+      "material": "Diamond and Silver",
+      "price": 2500,
+      "description": "Elevate your style with the exquisite sparkle of our diamond silver earrings, designed to add a touch of glamour and sophistication to any occasion.",
+      "image": "https://cdn.pixabay.com/photo/2017/03/05/19/54/sapphire-ring-2119613_1280.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Trending Long Pearl Earing",
+      "category": "Earing",
+      "material": "Silver Pearl",
+      "price": 150,
+      "description": "Make a statement with our beautiful long pearl earrings, crafted to showcase the timeless beauty and grace of this classic gemstone.",
+      "image": "https://cdn.shopify.com/s/files/1/2695/2010/products/P_1_2_cdacfc2e-3a3b-48f8-8db4-c912c63dbc82_1024x1024.jpg?v=1517984909"
+    },
+    {
+      "id": 5,
+      "name": "Classical Gold Silver Earing",
+      "category": "Earing",
+      "material": " Silver Gold",
+      "price": 340,
+      "description": "Upgrade your style with our stunning gold and silver earrings, perfect for adding a touch of glamour and sophistication to any look.",
+      "image": "https://cdn1.jewelxy.com/live/img/business_product/7ppAfV7vvU_20220203111847.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Twisted Hoop Stylish Earrings",
+      "category": "Earing",
+      "material": "Gold",
+      "price": 190,
+      "description": "Experience the artistry of our unique and captivating twisted hoop earrings, designed to make a bold and stylish statement that sets you apart from the crowd.",
+      "image": "https://i.pinimg.com/736x/ae/fe/c2/aefec2d24c1464173386a9020bee9534.jpg"
+    }
+  ]
+}
